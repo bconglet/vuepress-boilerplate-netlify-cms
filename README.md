@@ -1,7 +1,7 @@
 ---
 title: README
+date: 2023-02-27T22:28:22.674Z
 ---
-
 # vuepress-boilerplate-netlify-cms
 
 ![Netlify](https://img.shields.io/netlify/271f5a7f-5024-4e8e-96de-4d49584fae2b)
@@ -63,6 +63,8 @@ Using Netlify's script injection feature, add the following script to the main i
 ### Congratulations
 
 You can now manage the content of your website at https://yoursite.netlify.com/admin/.
+
+T﻿est
 
 ## License
 
